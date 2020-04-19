@@ -1,3 +1,8 @@
+/*
+    Feito por Vitor Trentim para aprendizado da linguagem Java
+    Abril, 2020
+*/
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.event.*;
