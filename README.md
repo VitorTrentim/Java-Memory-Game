@@ -1,2 +1,4 @@
-# JavaGame
-Projeto de jogo em Java
+# Java-Memory-Game
+Projeto de jogo da memória em Java para aprendizado da linguagem. Interface de utilização simples, feita utilizando apenas recursos dos pacotes AWT e SWING.
+
+Obs: necessário extrair a pasta 'Resources' no diretório do programa.
