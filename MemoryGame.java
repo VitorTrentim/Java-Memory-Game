@@ -299,6 +299,7 @@ class MemoryGame extends JFrame implements ActionListener {
         desktop.setVisible(true);
         add(desktop);
         setVisible(true);
+        setResizable(false);
         iniciaTimer();
     }
 
