@@ -103,8 +103,6 @@ class MemoryGame2 extends JFrame implements ActionListener {
                 deck[randomInt].inserida = true;
                 painelCartas.add(deck[randomInt]);
                 numCartasAdd++;
-
-                System.out.println("location: " + x + "," + y);
                 size = deck[randomInt].getPreferredSize();
                 deck[randomInt].setBounds(x + insets.left, y + insets.top,
                         size.width, size.height);
